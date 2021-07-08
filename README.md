@@ -28,8 +28,8 @@ I'm currently working at wizeline as a software developer using Python3 and AWS
 
 ***
 ## Recent projects
-- Wiki Celebrities as DataScientist using lxml # ToDo: Href here
-- Projections of Covid19 Deaths  as dataScientist and backend developer using FastAPI and SciKit #ToDo: Href
+- <a href="https://github.com/AbejaCruz/people-new-backend">Wiki Celebrities</a> contributed as Data scientist using lxml
+- <a href="https://github.com/Yaeger42/projections">Projections of Covid19</a> Deaths  as dataScientist and backend developer using FastAPI and SciKit 
 
 ***
 ## Languages and tools
@@ -38,7 +38,7 @@ I'm currently working at wizeline as a software developer using Python3 and AWS
 
 ***
 ## Certificates
-AWS Certified Developer Associate #Href here
+<a href="https://www.credly.com/earner/earned/badge/db768e1f-4417-435e-b35c-fe45388606eb">AWS Certified Developer Associate</a>
 
 ***
 ## Stats
