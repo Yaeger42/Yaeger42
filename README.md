@@ -33,12 +33,19 @@ I'm currently working at wizeline as a software developer using Python3 and AWS
 
 ***
 ## Languages and tools
+- Python
+- Django
+- FastAPI
+- Flask
+- AWS
+- Google DialogFlow CX
+- JavaScript(Basic level)
 
 
 
 ***
 ## Certificates
-<a href="https://www.credly.com/earner/earned/badge/db768e1f-4417-435e-b35c-fe45388606eb">AWS Certified Developer Associate</a>
+<a href="https://www.credly.com/badges/db768e1f-4417-435e-b35c-fe45388606eb/public_url">AWS Certified Developer Associate</a>
 
 ***
 ## Stats
