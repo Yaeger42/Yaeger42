@@ -40,6 +40,15 @@ I'm currently working at wizeline as a software developer using Python3 and AWS
 - AWS
 - Google DialogFlow CX
 - JavaScript(Basic level)
+- Visual Studio Data tools
+
+***
+## Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+- Snowflake
+- SQL Server
 
 
 
