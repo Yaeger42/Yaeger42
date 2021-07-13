@@ -24,7 +24,7 @@ You can ask me about:
 
 ***
 ## Currently working at
-I'm currently working at wizeline as a software developer using Python3 and AWS 
+I'm currently working at <a href="https://www.wizeline.com">Wizeline</a> as a software developer using Python3 and AWS 
 
 ***
 ## Recent projects
