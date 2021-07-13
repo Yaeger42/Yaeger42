@@ -33,12 +33,28 @@ I'm currently working at <a href="https://www.wizeline.com">Wizeline</a> as a so
 
 ***
 ## Languages and tools
+- Python
+- Django
+- FastAPI
+- Flask
+- AWS
+- Google DialogFlow CX
+- JavaScript(Basic level)
+- Visual Studio Data tools
+
+***
+## Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+- Snowflake
+- SQL Server
 
 
 
 ***
 ## Certificates
-<a href="https://www.credly.com/earner/earned/badge/db768e1f-4417-435e-b35c-fe45388606eb">AWS Certified Developer Associate</a>
+<a href="https://www.credly.com/badges/db768e1f-4417-435e-b35c-fe45388606eb/public_url">AWS Certified Developer Associate</a>
 
 ***
 ## Stats
