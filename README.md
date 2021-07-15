@@ -1,8 +1,14 @@
+<a href="https://github.com/Yaeger42/projections"><img src="./assets/banner.png"></a>
+<p align="center">
+
 # Howdy 🤠 
 My name is Diego, I'm a Python backend developer who likes to automate the boring stuff.
+</p>
+
 ***
+
 ## How to reach me
-<p align='center'>
+<p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/diego-casillas-duarte-93a0a017b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   &nbsp;
