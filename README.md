@@ -1,4 +1,4 @@
-<a href="https://github.com/Yaeger42/projections"><img src="./assets/banner.png"></a>
+<a href="https://github.com/Yaeger/projections"><img src="./assets/banner.png"></a>
 <p align="center">
 
 # Howdy 🤠 
