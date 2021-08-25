@@ -1,4 +1,4 @@
-<a href="https://github.com/Yaeger/projections"><img src="./assets/banner.png"></a>
+<a href="https://github.com/Yaeger42/projections"><img src="./assets/banner.png"></a>
 <p align="center">
 
 # Howdy 🤠 
@@ -12,7 +12,7 @@ My name is Diego, I'm a Python backend developer who likes to automate the borin
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/diego-casillas-duarte-93a0a017b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   &nbsp;
-  <a href="https://platzi.com/p/Yaeger42/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/p/Yaeger/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 Reach me via Email: <a href="mailto:projectdcd@gmail.com">projectdcd@gmail.com</a>
