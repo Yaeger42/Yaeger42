@@ -2,7 +2,7 @@
 <p align="center">
 
 # Howdy 🤠 
-My name is Diego, I'm a Python backend developer who likes to automate the boring stuff.
+My name is Diego, I'm a Python backend developer who likes to automate the boring stuff. I enjoy backend development as well
 </p>
 
 ***
