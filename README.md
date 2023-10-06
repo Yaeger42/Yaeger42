@@ -2,7 +2,7 @@
 <p align="center">
 
 # Howdy 🤠 
-My name is Diego, I'm a Python backend developer who likes to automate the boring stuff. I enjoy backend development as well
+My name is Diego, I'm a Python backend developer who likes to automate the boring stuff. And I also enjoy tinkering with DevOps tools
 </p>
 
 ***
@@ -30,7 +30,7 @@ You can ask me about:
 
 ***
 ## Currently working at
-I'm currently working at <a href="https://shiphero.com/">Shiphero</a> as a backend software engineer developer
+I'm currently working at <a href="https://brightcove.com/">Brightcove</a> as a DevOps Engineer
 
 ***
 ## Recent projects
@@ -47,6 +47,10 @@ I'm currently working at <a href="https://shiphero.com/">Shiphero</a> as a backe
 - Google DialogFlow CX
 - JavaScript(Basic level)
 - Visual Studio Data tools
+- K8s
+- TeamCity
+- Spinnaker
+- Jenkins
 
 ***
 ## Databases
