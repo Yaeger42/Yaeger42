@@ -30,7 +30,7 @@ You can ask me about:
 
 ***
 ## Currently working at
-I'm currently working at <a href="https://brightcove.com/">Brightcove</a> as a DevOps Engineer
+I'm currently working at <a href="https://sailpoint.com">Sailpoint</a> as a DevOps Engineer
 
 ***
 ## Recent projects
