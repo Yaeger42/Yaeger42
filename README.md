@@ -26,6 +26,10 @@ You can ask me about:
 - Custom computer building
 <br>
 - AWS
+<br>
+- K8s
+<br>
+- Jenkins
 
 
 ***
